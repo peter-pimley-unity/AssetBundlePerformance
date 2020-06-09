@@ -1281,7 +1281,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_slider: {fileID: 42955900}
-  m_maxMiB: 512
+  m_maxMiB: 1024
   m_maxText: {fileID: 802474345}
 --- !u!114 &1178149060
 MonoBehaviour:
