@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad601cd444e4c4b4a900001688638bec, type: 3}
+  m_Name: filenames
+  m_EditorClassIdentifier: 
+  m_names:
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_02_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_boat_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_01_m.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_02_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_building_02_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_crane_02_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_dragonhead_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_dragonhead_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_dragonhead_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_02_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_gate_02_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_strawroofs_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_strawroofs_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_strawroofs_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_strawroofs_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_01_SG.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_02_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_03_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_03_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_03_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_tower_03_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_village_fence_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_village_fence_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_village_fence_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Buildings/build_village_fence_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Effects/flare/lensflare_003.tga
+  - Assets/Textures/VikingVillage/Textures/Effects/fx_flame_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Effects/fx_smoke_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Effects/ParticleFlamesSheet.png
+  - Assets/Textures/VikingVillage/Textures/midgrey.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_barrel_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_barrel_01_m.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_barrel_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_barrel_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_barrel_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_boardwalk_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_boardwalk_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_boardwalk_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_boardwalk_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_boulder_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_boulder_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_bucket_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_bucket_01_m.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_bucket_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_bucket_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_bucket_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_fence_02_a.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_fence_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_fence_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_fish_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_fish_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_fish_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_logpile_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_menhir_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_menhir_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_rune_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_rune_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_rune_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_02_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_03_a.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_03_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_03_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_shield_03_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_skull_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_skull_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_skull_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_skull_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_skull_02_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_sword_shovel_halberd_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_sword_shovel_halberd_01_e.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_sword_shovel_halberd_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_sword_shovel_halberd_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Props/prop_sword_shovel_halberd_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Skies/Daytime/Cloud_01.tif
+  - Assets/Textures/VikingVillage/Textures/Skies/Daytime/SunsetSkyboxHDR.hdr
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_01_m.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_01_o.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_01_o_highpassed.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_far_01_a2.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_far_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_grass_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_grass_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_grass_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_mudslide_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_mudslide_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_mudslide_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_wetmud_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_wetmud_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/Terrain/terrain_wetmud_01_sg.tif
+  - Assets/Textures/VikingVillage/Textures/unity-logo-white.png
+  - Assets/Textures/VikingVillage/Textures/Vegetation/veg_foliage_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/Vegetation/veg_grass_01_d.tif
+  - Assets/Textures/VikingVillage/Textures/wood_d.tif
+  - Assets/Textures/VikingVillage/Textures/wood_n.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_01_a.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_01_n.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_02_a.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_02_n.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_02_o.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_03_a.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_03_n.tif
+  - Assets/Textures/VikingVillage/Textures/wood_tiled_03_o.tif
+  - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown Icon.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input Field Icon.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Sprite Asset Icon.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidLine.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidline_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop_Light.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Dark.psd
+  - Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Light.psd
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineActivation.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineCollapseMarkerButtonDisabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineCollapseMarkerButtonEnabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineContinue.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineCurvesOff.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineCurvesOn.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineDisabledBackground.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineEndPlayback.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineEye.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineEye@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineHold.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineIconClipIn.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineIconClipOut.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineInfiniteTrackNoShadow.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineKeyframe.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineLockButton.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineLockButton@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineLoop.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItem.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItemCollapsed.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItemSelected.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelinePingPong.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelinePlayRange.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineSignalCollapsed.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineSignalSelected.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineStartPlayback.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineTimeCursor.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineDigIn.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeMixOFF.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeMixON.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceOFF.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceON.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleOFF.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleON.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineHeaderMarkerIcon.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineMarkerAreaButtonDisabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineMarkerAreaButtonEnabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineSelector.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineSignal.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/Timeline-Marker-Warning-Overlay.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineClipBG.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineClipFG.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineDigIn.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeMixOFF.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeMixON.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceOFF.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceON.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleOFF.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleON.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineHeaderMarkerIcon.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineMarkerAreaButtonDisabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineMarkerAreaButtonEnabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineSelector.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineSignal.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineActivation.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineCollapseMarkerButtonDisabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineCollapseMarkerButtonEnabled.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineContinue.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineCurvesOff.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineCurvesOn.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineDisabledBackground.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineEndPlayback.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineEye.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineEye@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineHold.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineIconClipIn.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineIconClipOut.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineInfiniteTrackNoShadow.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineKeyframe.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineLockButton.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineLockButton@2x.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineLoop.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItem.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemCollapsed.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemSelected.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelinePingPong.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelinePlayRange.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineSignalCollapsed.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineSignalSelected.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineStartPlayback.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineTimeCursor.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineBottomShadow.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineConnector.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineDisplay.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineGroupBackground.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineOutline.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineSeqEnd.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineSwatch.png
+  - Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineWarning.png
